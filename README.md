@@ -1,5 +1,7 @@
 # SDIZO (Struktury danych i złożoność obliczeniowa) 
 
+Implementation of different data structures and graph algorithms
+
 Zad 1 (Task 1)  
 Implemented an array, a list, a binary heap and a BST (with DSW balancing algorithm)
  
